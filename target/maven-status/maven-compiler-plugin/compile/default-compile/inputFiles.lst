@@ -1,0 +1,9 @@
+c:\dev\Workspace\zuul-server\src\main\java\br\com\test\ServletInitializer.java
+c:\dev\Workspace\zuul-server\src\main\java\br\com\test\filter\RouteURLFilter.java
+c:\dev\Workspace\zuul-server\src\main\java\br\com\test\request\URIRequest.java
+c:\dev\Workspace\zuul-server\src\main\java\br\com\test\filter\PostFilter.java
+c:\dev\Workspace\zuul-server\src\main\java\br\com\test\filter\PreFilter.java
+c:\dev\Workspace\zuul-server\src\main\java\br\com\test\filter\SupportFilter.java
+c:\dev\Workspace\zuul-server\src\main\java\br\com\test\request\GatewayRequest.java
+c:\dev\Workspace\zuul-server\src\main\java\br\com\test\filter\SimpleCORSFilter.java
+c:\dev\Workspace\zuul-server\src\main\java\br\com\test\ZuulServerApplication.java

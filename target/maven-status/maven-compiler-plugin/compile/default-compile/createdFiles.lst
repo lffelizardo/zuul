@@ -1,0 +1,9 @@
+br\com\test\request\GatewayRequest.class
+br\com\test\filter\RouteURLFilter.class
+br\com\test\filter\SimpleCORSFilter.class
+br\com\test\filter\PreFilter.class
+br\com\test\ServletInitializer.class
+br\com\test\request\URIRequest.class
+br\com\test\filter\SupportFilter.class
+br\com\test\ZuulServerApplication.class
+br\com\test\filter\PostFilter.class
